@@ -1,0 +1,23 @@
+C:/Users/carlo/onedrive/documents/visual studio 2015/Projects/Proyecto-Stephanie/Proyecto-Stephanie/bin/Debug/Proyecto-Stephanie.exe.config
+C:/Users/carlo/onedrive/documents/visual studio 2015/Projects/Proyecto-Stephanie/Proyecto-Stephanie/bin/Debug/Proyecto-Stephanie.exe
+C:/Users/carlo/onedrive/documents/visual studio 2015/Projects/Proyecto-Stephanie/Proyecto-Stephanie/bin/Debug/Proyecto-Stephanie.pdb
+C:/Users/carlo/onedrive/documents/visual studio 2015/Projects/Proyecto-Stephanie/Proyecto-Stephanie/obj/Debug/Proyecto_Stephanie.Cliente.resources
+C:/Users/carlo/onedrive/documents/visual studio 2015/Projects/Proyecto-Stephanie/Proyecto-Stephanie/obj/Debug/Proyecto_Stephanie.Principal.resources
+C:/Users/carlo/onedrive/documents/visual studio 2015/Projects/Proyecto-Stephanie/Proyecto-Stephanie/obj/Debug/Proyecto_Stephanie.Properties.Resources.resources
+C:/Users/carlo/onedrive/documents/visual studio 2015/Projects/Proyecto-Stephanie/Proyecto-Stephanie/obj/Debug/Proyecto_Stephanie.Servidor.resources
+C:/Users/carlo/onedrive/documents/visual studio 2015/Projects/Proyecto-Stephanie/Proyecto-Stephanie/obj/Debug/Proyecto-Stephanie.csproj.GenerateResource.Cache
+C:/Users/carlo/onedrive/documents/visual studio 2015/Projects/Proyecto-Stephanie/Proyecto-Stephanie/obj/Debug/Proyecto-Stephanie.exe
+C:/Users/carlo/onedrive/documents/visual studio 2015/Projects/Proyecto-Stephanie/Proyecto-Stephanie/obj/Debug/Proyecto-Stephanie.pdb
+C:/Users/carlo/onedrive/documents/visual studio 2015/Projects/Proyecto-Stephanie/Proyecto-Stephanie/obj/Debug/Proyecto-Stephanie.csprojResolveAssemblyReference.cache
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/bin/Debug/Proyecto-Stephanie.exe.config
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/bin/Debug/Proyecto-Stephanie.exe
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/bin/Debug/Proyecto-Stephanie.pdb
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/obj/Debug/Proyecto-Stephanie.csprojResolveAssemblyReference.cache
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/obj/Debug/Proyecto_Stephanie.Cliente.resources
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/obj/Debug/Proyecto_Stephanie.Principal.resources
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/obj/Debug/Proyecto_Stephanie.Properties.Resources.resources
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/obj/Debug/Proyecto_Stephanie.Servidor.resources
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/obj/Debug/Proyecto-Stephanie.csproj.GenerateResource.Cache
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/obj/Debug/Proyecto-Stephanie.csproj.CoreCompileInputs.cache
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/obj/Debug/Proyecto-Stephanie.exe
+/Users/stephanie/Documents/Programacion_Avanzada/Proyecto_Final/Proyecto_Hangman/Proyecto-Stephanie/obj/Debug/Proyecto-Stephanie.pdb
